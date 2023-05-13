@@ -9,7 +9,7 @@ export const Sidebar = () => {
       <p className="title">Desenvolvedor</p>
       <p>redes sociais</p>
       <p>informações de contato</p>
-      <a href="" className='btn'>Download currículo</a>
+      <a href="" className="btn">Download currículo</a>
     </aside>
-    )
+  )
 }
