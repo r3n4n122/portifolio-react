@@ -3,6 +3,7 @@ import "../styles/components/maincontent.sass"
 
 export const MainContent = () => {
   return (
-    <main id="main-content">main content</main>
+    <main id="main-content"></main>
+    
   )
 }
